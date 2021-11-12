@@ -3,8 +3,6 @@
 Este projeto consiste em realizar o deploy de uma aplicação React.js em um servidor NGINX
 orquestrado com o Docker Compose.
 
-No diretorio do projeto execute:
-
 Para executar:
 
 ### `docker-compose up -d`
